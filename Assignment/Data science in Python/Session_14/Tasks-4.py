@@ -1,0 +1,9 @@
+[{"title": "Inception",
+        "year": 2010,
+        "rating": 8.8},
+ {"title": "Interstellar",
+        "year": 2014,
+        "rating": 8.7},
+ {"title": "Avatar",
+        "year": 2009,
+        "rating": 7.9}]
